@@ -1,10 +1,10 @@
 {
   "name": "react-skinview3d",
-  "version": "3.0.1",
-  "description": "A React component for skinview3d Minecraft viewer",
-  "author": "Hacksore",
+  "version": "1.0.0",
+  "description": "A React component for headview3d Minecraft viewer",
+  "author": "SMCodesP <samuel.silvat513@etec.sp.gov.br> (https://github.com/SMCodesP)",
   "license": "MIT",
-  "repository": "Hacksore/react-skinview3d",
+  "repository": "SMCodesP/react-headview3d",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
@@ -56,6 +56,6 @@
     "react-dom": ">=16.8.0"
   },
   "dependencies": {
-    "skinview3d": "^2.0.3"
+    "headview3d": "^2.2.2"
   }
 }
